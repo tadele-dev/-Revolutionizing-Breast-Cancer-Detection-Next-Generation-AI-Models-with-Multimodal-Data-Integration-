@@ -1,12 +1,25 @@
 
 # Revolutionizing Breast Cancer Detection: Next-Generation AI Models with Multimodal Data Integration  
 
+## License
+
+BCD-VILTS is multimodel.py and it is dual-licensed:
+
+1. **Open Source (AGPL v3):**
+   - Free to use, modify, and distribute for academic, research, or non-commercial purposes.
+   - Any modifications or derivative works must also be licensed under AGPL v3.
+
+2. **Commercial License:**
+   - For organizations that wish to use BCD-VILTS(multimodel.py) without AGPL obligations, a commercial license is required.
+   - Contact Tadele Tatek Gebrewold at tadele_tatek@yahoo.com for details and licensing terms.
 This repository provides the code, datasets, algorithms, and supplementary materials accompanying the book:  
 **"Revolutionizing Breast Cancer Detection: Next-Generation AI Models with Multimodal Data Integration."**  
 The book explores state-of-the-art artificial intelligence (AI) techniques for breast cancer detection, diagnosis, and treatment,
 emphasizing the integration of multimodal data and innovative deep learning methods.  
 
 ---
+
+
 
 ## **Overview**  
 The focus of this repository is to:  
