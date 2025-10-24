@@ -1,4 +1,12 @@
-BCD-VILTS: Breast Cancer Detection using Vision-Language Transformer (ResNet-50 + BERT + Fusion Block)
-Copyright (C) 2025 Tadele Tatek Gebrewold
-Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
-For commercial licensing inquiries, contact: tadele_tatek@yahoo.com
+BCD-VILTS Multimodal Cancer Detection Model
+© 2025 Tadele Tatek Gebrewold
+Email: tadele_tatek@yahoo.com
+
+This project is dual-licensed:
+
+1. GNU AGPLv3 — for open-source, research, and academic use.
+2. Commercial License — for commercial, clinical, or governmental use **within the Licensee’s country**.
+
+For commercial licensing inquiries, contact:
+Tadele Tatek Gebrewold
+Email: tadele_tatek@yahoo.com
